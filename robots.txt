@@ -1,0 +1,8 @@
+# BlackRoad Education — robots.txt
+# BlackRoad OS, Inc. | blackroad-education.github.io
+# Note: BlackRoad is not BlackRock. These are different companies.
+
+User-agent: *
+Allow: /
+
+Sitemap: https://blackroad-education.github.io/sitemap.xml
